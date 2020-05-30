@@ -11,15 +11,12 @@ padding-top: 8px;
 padding-bottom: 24px;
 padding-left: 24px;
 padding-right: 24px;
+theme: jekyll-theme-leap-day
+}
 
-}
-.Darkmode {
-  background-color: black;
-  color: white;
-}
 nav ul{
   list-style-type: none;
-  background-color: white;
+  background-color: blue;
   border: 4px solid black;
   border-radius: 10px;
   font-family: sans-serif;
